@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: unset !important;
+}
+li {
+  list-style-type: none;
+}
+.todo-table {
+  margin-top: 30px ;
+}
+.todo-table table {
+  margin-top: 30px;
+}
+.todo-table h2 {
+  text-align: center;
+}
+.todo-btn {
+ width: 100%;
+}
+.todo-task-form {
+  margin-top: 30px;
+}
+.todo-task-form h2 {
+  text-align: center;
+}
+.todo-task-update {
+  margin-top: 30px;
+}
+.todo-task-update h2 {
+  text-align: center;
+}
